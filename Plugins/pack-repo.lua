@@ -26,7 +26,7 @@ plugin = {
             arch = "amd64",
             url = "https://azuredraft.blob.core.windows.net/draft/" .. name .. "-v" .. version .. "-windows-amd64.tar.gz",
             sha256 = "fd07836a937a1afebd6e834bd487d84c8b9def78b9012286b179bc54d4bfe763",
-            path = "windows-amd64/" .. name,
+            path = "windows-amd64/" .. name .. ".exe",
         }
     }
 }
