@@ -5,8 +5,8 @@ plugin = {
     name = name,
     description = "Displays all available environment variables when writing a Draft plugin",
     homepage = "https://github.com/bacongobbler/draft-env",
-	version = version,
-	useTunnel = false,
+    version = version,
+    useTunnel = false,
     packages = {
         {
             os = "darwin",
